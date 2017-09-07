@@ -937,6 +937,9 @@ body {
   color: #fff;
   border: #e11a27;
 }
+body {
+  min-width: 1520px;
+}
 .page-footer {
   background: #ffd200;
   margin-top: 120px;
